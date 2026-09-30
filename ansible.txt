@@ -1,2 +1,3 @@
+ansible --version
 ansible-inventory -i hosts.ini --list
 ansible-playbook -i hosts.ini setup.yml
